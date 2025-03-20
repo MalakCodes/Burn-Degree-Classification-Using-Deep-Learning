@@ -11,8 +11,8 @@ Features
 Installation
 	1.	Clone the repository:
 
-git clone https://github.com/yourusername/burn-degree-classification.git
-cd burn-degree-classification
+git clone https://github.com/MalakCodes/Burn-Degree-Classification-Using-Deep-Learning.git
+cd Burn-Degree-Classification-Using-Deep-Learning
 
 
 	2.	Install the required dependencies:
